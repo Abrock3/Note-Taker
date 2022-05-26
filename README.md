@@ -25,7 +25,7 @@ Link to the deployed app: https://note-taker800.herokuapp.com/
 The user can click "get started" to navigate to the notes page. Any note can be clicked to view its content, and the "plus" icon in the top right can be clicked to create a new note. The user can type a title and content for their new note, and may save their new note by clicking the save button in the top right. If desired, the user can delete a note by clicking the red trash icon next to it in the list.
 
 Screenshot of the app during function:
-![Screenshot](images\Screenshot1.jpg?raw=true "Screenshot")
+![Screenshot](images/Screenshot1.jpg?raw=true "Screenshot")
 
 ## Credits
 
